@@ -1,0 +1,28 @@
+{
+  "name": "module16_homework",
+  "version": "1.0.0",
+  "description": "testing function with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-vanb/module16_homework.git"
+  },
+  "author": "Butakov Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-vanb/module16_homework/issues"
+  },
+  "homepage": "https://github.com/i-vanb/module16_homework#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-jest": "^26.6.3"
+  }
+}
